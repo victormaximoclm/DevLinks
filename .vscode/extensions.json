@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode", 
+    "PKief.material-icon-theme",
+    "rocketseat.theme-omni",
+    "ritwickdey.LiveServer"
+  ]
+}
+//extensões recomendadas para utilizar no projeto.
+//prettier vai formatar de forma automática o nosso código
+//mateiral-icon-theme vai deixar nossos ícones de arquivos e pastas mais bonitos.
+//theme-omni vai deixar o vscode com uams cores mais interessantes
+//Live server vai ficar observando as mudanças do arquivo HTML que criamos, ou seja toda vez que salvarmos algo novo 
+//ele vai carregar de forma automática as mudanças feitas.
