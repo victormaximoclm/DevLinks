@@ -11,8 +11,8 @@
 body {
   background-image: url(./assets/bg2.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
   background-attachment: fixed;
+  height: 100vh;
 }
 
 body * {
@@ -105,4 +105,11 @@ footer {
   padding: 24px 0;
   text-align: center;
   font-size: 14px;
+}
+
+/* media queries */
+@media (min-width: 700px) {
+  body {
+    background-image: url(./assets/bg-desktop.jpg);
+  }
 }
